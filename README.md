@@ -86,7 +86,7 @@ and it is unclear if this bound can be improved on for the
  - Shamos, M. I. (1976) *Geometry and Statistics: Problems at the Interface*, in **Algorithms and Complexity**, Academic Press, Inc. [see Theorem 3.6]
 
 
- - Johnson, D. B. and Mizoguchi, T. (1978), Selecting the *K*th element in *X+Y* and *$X_1+X_2+...+X_m$*, SIAM Journal on Computing, 7, 2, 147-153.
+ - Johnson, D. B. and Mizoguchi, T. (1978), Selecting the *K*th element in *X+Y* and *X_1+X_2+...+X_m*, SIAM Journal on Computing, 7, 2, 147-153.
 
 
  - Bickel, P. J. and Lehmann, E. L. (1979) *Descriptive statistics for nonparametric models IV. Spread*, in **Jaroslav Hajek Memorial Volume**, 519-526, Springer.
