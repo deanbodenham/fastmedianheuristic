@@ -1,5 +1,8 @@
 # Fast Median Heuristic Computation for Univariate Data
 
+Implementation of `O(n log n)` algorithm for computing the median heuristic
+for univariate data.
+
 ## Definition
 
 Given **univariate** data `z_1, z_2, ..., z_n`, one can define the
